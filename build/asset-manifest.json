@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c994246e.css",
+    "main.js": "/react-portfolio/static/js/main.4bb69062.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Profile.png": "/react-portfolio/static/media/Profile.d59e0c01885c2630f417.png",
+    "static/media/hero-bg.jpg": "/react-portfolio/static/media/hero-bg.74f62c0bbf26e4a2b923.jpg",
+    "static/media/fitness-tracker.PNG": "/react-portfolio/static/media/fitness-tracker.3474808fb82c7a78d467.PNG",
+    "static/media/Ed_Beard_Resume.pdf": "/react-portfolio/static/media/Ed_Beard_Resume.3744fc9c6a449cb85e01.pdf",
+    "static/media/weather-dashboard.PNG": "/react-portfolio/static/media/weather-dashboard.fd1dc7903e99171843ca.PNG",
+    "static/media/day-planner.PNG": "/react-portfolio/static/media/day-planner.7ea8f39f36a4666ead6e.PNG",
+    "static/media/password-generator.PNG": "/react-portfolio/static/media/password-generator.c9c6a8d7b8761170f7f5.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.c994246e.css.map": "/react-portfolio/static/css/main.c994246e.css.map",
+    "main.4bb69062.js.map": "/react-portfolio/static/js/main.4bb69062.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c994246e.css",
+    "static/js/main.4bb69062.js"
+  ]
+}
