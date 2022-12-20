@@ -48,7 +48,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../src/assets/cover/5330558.jpg");
+  background-image: url("../src/assets/cover/hero-bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -191,7 +191,7 @@ header nav ul li a:hover {
 /* REACH OUT STYLES START */
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: #4B9CD3;
 }
 
 #reach-out h2 {
@@ -334,7 +334,7 @@ header nav ul li a:hover {
 .job-text h4 {
   font-size: 26px;
   line-height: 1.5;
-  color: #75BFB2;
+  color: #4B9CD3;
 }
 
 
@@ -530,13 +530,13 @@ footer {
 
 footer h2 {
 
-  color: #75BFB2;
+  color: #4B9CD3;
   font-size: 15px;
   margin: 0;
 }
 
 footer p {
-  color: #75BFB2;
+  color: #4B9CD3;
   font-size: 15px;
   margin: 0;
   text-align: center;
@@ -550,7 +550,7 @@ footer div {
 }
 
 footer a {
-  color: #75BFB2;
+  color: #4B9CD3;
 }
 
 footer a:hover {
@@ -578,7 +578,7 @@ footer a:hover {
 /* extra titles stylings */
 .section-title {
   font-size: 48px;
-  color: #75BFB2;
+  color: #4B9CD3;
   border-bottom: 3px solid;
   padding-bottom: 20px;
   text-align: center;
