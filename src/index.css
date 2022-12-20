@@ -214,7 +214,7 @@ header nav ul li a:hover {
 
 .contact-form button:hover {
   color: #F2E3D5;
-  background: #39a6b2;
+  background: #13294B;
 }
 
 .contact-form input,
@@ -446,7 +446,7 @@ header nav ul li a:hover {
 .article {
   margin: 10px;
   margin-bottom: 1em;
-  background-color: #B4D9CB;
+  background-color: #4B9CD3;
 }
 
 
@@ -488,13 +488,13 @@ header nav ul li a:hover {
 }
 
 .column-title {
-  color: #285950;
+  color: #13294B;
   font-size: 25px;
   font-weight: bold;
 }
 
 .column-text {
-  color: #285950;
+  color: #13294B;
   font-size: 20px;
   padding: 5px;
 
